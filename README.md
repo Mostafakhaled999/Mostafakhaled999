@@ -4,6 +4,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="www.linkedin.com/in/mostafa-nasr-510309163" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -12,10 +14,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 ###
 
@@ -85,6 +83,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mostafakhaled999/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 ###
 
