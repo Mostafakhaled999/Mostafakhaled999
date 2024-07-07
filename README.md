@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">👋I'm Mostafa Nasr.<br>👷‍♂️ I'm currently working as a Software Engineer @Kinana.<br><br><br>📈 +1 Years of professional experience in Software Development as a Full Stack Developer.<br>🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.<br>🔭 I’m currently working on a document management system for a very well known bank.<br>🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
+<h4 align="left">👋I'm Mostafa Nasr.<br>👷‍♂️ I'm currently working as a Software Engineer @Kinana.<br><br>📈 +1 Years of professional experience in Software Development as a Full Stack Developer.<br>🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.<br>🔭 I’m currently working on a document management system for a very well known bank.<br>🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
 
 ###
 
