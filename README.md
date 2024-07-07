@@ -4,10 +4,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/mostafa-nasr-51030163/" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-nasr-510309163/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mostafanasr12.99@gmail.com" target="_blank">
@@ -17,11 +15,31 @@
 
 ###
 
-<img align="right" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
 
 ###
 
-<h4 align="left" style="line-height: 2.6;">👋I'm Mostafa Nasr.<br>👷‍♂️ I'm currently working as a Software Engineer @Kinana.<br>📈 +1 Years of professional experience in Software Development as a Full Stack Developer.<br>🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.<br>🔭 I’m currently working on a document management system for a very well known bank.<br>🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
+<h4 align="left">👋I'm Mostafa Nasr.</h4>
+
+###
+
+<h4 align="left">👷‍♂️ I'm currently working as a Software Engineer @Kinana.</h4>
+
+###
+
+<h4 align="left">📈 +1 Years of professional experience in Software Development as a Full Stack Developer.</h4>
+
+###
+
+<h4 align="left">🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.</h4>
+
+###
+
+<h4 align="left">🔭 I’m currently working on a document management system for a very well known bank.</h4>
+
+###
+
+<h4 align="left">🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
 
 ###
 
