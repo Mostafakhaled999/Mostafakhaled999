@@ -17,7 +17,11 @@
 
 ###
 
-<p align="left">👋I'm Mostafa Nasr.<br>👷‍♂️ I'm currently working as a Software Engineer @Kinana For Business Solutions.<br>📈 I have +1 Years of professional experience in Software Development as a Full Stack Developer and also as a Mobile Developer.<br>🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.<br>🔭 I’m currently working on a document management system for a very well known bank.<br>🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</p>
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+
+###
+
+<h4 align="left">👋I'm Mostafa Nasr.<br>👷‍♂️ I'm currently working as a Software Engineer @Kinana For Business Solutions.<br>📈 I have +1 Years of professional experience in Software Development as a Full Stack Developer and also as a Mobile Developer.<br>🏛 Graduated with a Bachelor's degree in Computer Science in June 2021 from Ain Shams University.<br>🔭 I’m currently working on a document management system for a very well known bank.<br>🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
 
 ###
 
@@ -86,9 +90,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzZG42Y2l1eHcyYXFicjF6dXd3dHV2bHdkcDQ1MHhiNmt2amtqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mostafakhaled999/Mostafakhaled999/output/snake.svg" alt="Snake animation" />
 
