@@ -35,11 +35,11 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on a document management system for a very well known bank.</h4>
+<h4 align="left">🔭 I’m currently working on a document management system.</h4>
 
 ###
 
-<h4 align="left">🌱 I’m currently expanding my knowledge in the field specially in the .NET framework and in AWS.</h4>
+<h4 align="left">🌱 I’m currently expanding my knowledge in the field, especially in the .NET framework and in AWS.</h4>
 
 ###
 
