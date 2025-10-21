@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">📈 +1 Years of professional experience in Software Development as a Full Stack Developer.</h4>
+<h4 align="left">📈 +2 Years of professional experience in Software Development as a Full Stack Developer.</h4>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on a document management system.</h4>
+<h4 align="left">🔭 I’m currently working on a OTA system.</h4>
 
 ###
 
